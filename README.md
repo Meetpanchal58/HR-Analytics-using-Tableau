@@ -37,23 +37,27 @@ A Custom Donut chart displaying the attrition rate for male and female employees
 
 ## Observation and Insights
 
-* Attrition Rate Amongst the gender 150 Males Candidates i.e(63.30%) while 87 Females Candidates i.e(36.70%) who are going to leave the organization
+### Gender wise Attrition Rate
+- Attrition Rate Amongst the gender 150 Males Candidates i.e(63.30%) while 87 Females Candidates i.e(36.70%) who are going to leave the organization
 - There are more number of males who are leaving the organization
 
-* Attrition Rate through Department Research and Development has the highest 133 candidates i.e(56.12%) of data, Following by Sales 92 Candidates i.e(38.82%) and the least in HR 12 Candidates i.e (5.06%)
+### Department wise Attrition Rate
+- Attrition Rate through Department Research and Development has the highest 133 candidates i.e(56.12%) of data, Following by Sales 92 Candidates i.e(38.82%) and the least in HR 12 Candidates i.e (5.06%)
 - Research and Development Department is a concern to look for interally because is attrition rate is more than 50% and following by Sales Department
 
-* Attrition Rate According to Age group of 18 to 60, the Data follows Normal Distribution and could be seen that Candidates of late 20's to late 30's there are lot of them leaving the organization whereas the young and the senior candidates are less from it
+### Attrition Rate by Age
+- Attrition Rate According to Age group of 18 to 60, the Data follows Normal Distribution and could be seen that Candidates of late 20's to late 30's there are lot of them leaving the organization whereas the young and the senior candidates are less from it
 
-* Job Role wise its Job Satisfaction
+### Job Role wise its Job Satisfaction 
 - Mostly Satisfied Candidates - They are in Healthcare respresentatives, Sales executives, Manager Department all more than (34%) 4* Rating
 - Moderatly Satisfied Candidates - They are in Human Resources, Manufacturing Director , Sales Respresentatives all more than (55%) including both 3*,2* rating
 - Not Satified Candidates - they are in laboratery Technician, Manager, Research Director all more than (21%) including 1* rating
 
-* Education Field wise Employee Count, we could our Employees are more from Life Science background i.e 89 Candidates following by Medical Background 63 Candidates then remaining 35 in Marketing and 32 in Technical Degree and the least in Hr i.e 7 Candidates and 11 in Other Sections
+### Education Field wise Employee Count
+- We could our Employees are more from Life Science background i.e 89 Candidates following by Medical Background 63 Candidates then remaining 35 in Marketing and 32 in Technical Degree and the least in Hr i.e 7 Candidates and 11 in Other Sections
 - Majority of Candidates are from Life Science Background, Medicial and the least in HR and others
 
-* Gender wise Attrition rate from different Age groups 
+### Gender wise Attrition rate from different Age groups 
 - Most Candidates - they are from 25 - 34  Age group there are maximum 112 candidates whereas 69 are Male and 43 are Female, followed by 35-44 Age group there are total 51 candidates 37 Male and 14 females
 - Decent no of Candidates - they are from Under 25 Age group total 38 Candidates 20 male and 18 female, followed by 45-54 Age group 25 total candidates 16 male 9 female
 - Least Candidates - they are from Senior Over 55 Age group only 11 Candidates 8 Male and 3 female
