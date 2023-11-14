@@ -16,22 +16,22 @@ This includes trendline and target line to help HR managers track progress towar
 ## Key Metrics
 The dashboard showcases the following key HR metrics and Key Performance Indicators (KPIs):
 
-* 1. Attrition by Gender
+* Attrition by Gender
 A Custom Lollipop chart displaying the attrition rate for male and female employees, helping to identify any gender-related attrition trends.
 
-* 2. Attrition by Department
+* Attrition by Department
 A Pie chart showing the attrition rate for different departments, aiding in understanding attrition patterns across various teams.
 
-* 3. Number of Employees by Age Group
+* Number of Employees by Age Group
 A Bar chart representing the distribution of employees across different age groups, providing insights into the age demographics of the workforce.
 
-* 4. Job Satisfaction Rating
+* Job Satisfaction Rating
 A HeatMap indicating the average job satisfaction rating of employees over time, helping monitor employee satisfaction levels.
 
-* 5. Education-wise Attrition
+* Education-wise Attrition
 A Horizontal Bar chart illustrating the attrition rate based on different education levels, assisting in analyzing the impact of education on employee retention.
 
-* 6. Attrition Rate by Gender for Different Age Groups
+* Attrition Rate by Gender for Different Age Groups
 A Custom Donut chart displaying the attrition rate for male and female employees across different age groups, allowing a comparative analysis.
 
 
