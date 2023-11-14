@@ -65,4 +65,4 @@ A Custom Donut chart displaying the attrition rate for male and female employees
 
 ## DASHBOARD:
 
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
+![HR Dashboard ](https://github.com/Meetpanchal58/Tableau-Project/blob/main/HR_Dashboard.png)
